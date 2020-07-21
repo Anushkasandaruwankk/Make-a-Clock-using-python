@@ -4,7 +4,7 @@ from tkinter.ttk import *
 from time import strftime
 
 root = Tk()
-root.title("Clock")
+root.title("The Clock is made by Anushka Sandaruwan")
 
 def time():
     string = strftime('%H:%M:%S %p')
