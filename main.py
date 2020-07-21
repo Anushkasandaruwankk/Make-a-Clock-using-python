@@ -15,4 +15,4 @@ label = Label(root, font=("ds-digital", 80), background = "black", foreground = 
 label.pack(anchor = 'center')
 time()
 
-# mainloop()
+mainloop()
